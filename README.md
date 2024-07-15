@@ -1,2 +1,2 @@
 # TeleICU
-Project subbmission foe Intel Unnati - TeleICU
+Project subbmission for Intel Unnati - TeleICU
